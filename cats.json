@@ -3,7 +3,7 @@
 		{
 			"photo": "img/adamcatlace.png",
 			"name": "Adam Catlace",
-			"age": 2
+			"age": 9
 		},
 		{
 			"photo": "img/tpl.jpg",
@@ -23,11 +23,6 @@
 		{
 			"photo": "img/shrodingcat.png",
 			"name": "Schrödingcat"
-		},
-		{
-			"photo": "https://cdn.rawgit.com/LeaVerou/mv-data/a35642b83b86061e3eb3ddfccae97e6faa724b1d/images/chris-av.jpg",
-			"name": "Smashed Avocado",
-			"age": "100"
 		}
 	]
 }
